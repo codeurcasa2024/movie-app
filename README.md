@@ -37,7 +37,8 @@ composer install
 ## Utilisation
 L'application est maintenant accessible à l'adresse http://localhost.
 
-## Accès restreint au backoffice : Utilisation de Jetstream pour l'authentification. Vous pouvez utiliser les identifiants suivants pour accéder au backoffice :
+## Accès restreint au backoffice : 
+Utilisation de Jetstream pour l'authentification. Vous pouvez utiliser les identifiants suivants pour accéder au backoffice :
 identifiant: amine
 Mot de passe: amine1234
 
