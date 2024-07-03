@@ -37,6 +37,10 @@ composer install
 ## Utilisation
 L'application est maintenant accessible à l'adresse http://localhost.
 
+## Accès restreint au backoffice : Utilisation de Jetstream pour l'authentification. Vous pouvez utiliser les identifiants suivants pour accéder au backoffice :
+identifiant: amine
+Mot de passe: amine1234
+
 Backup de la base de données
 Si nécessaire, un fichier de backup de la base de données est fourni dans le dossier backup avec le nom database_backup.sql. Pour restaurer la base de données, utilisez la commande suivante :
 
